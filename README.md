@@ -60,6 +60,7 @@ Solidity
 
 // Call the transfer function
 transfer(0xRecipientAddress..., 1000000000000000000); 
+
 *** `2. Checking Balances`**
 To see how many tokens an address holds:
 
@@ -67,6 +68,7 @@ Solidity
 
 // Call balanceOf
 balanceOf(0xYourAddress...);
+
 *** `3. Approving a Spender`**
 To authorize a DApp or another user to spend tokens:
 
